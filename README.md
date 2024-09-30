@@ -1,4 +1,4 @@
-This repository provides supplementary material for our paper entitled _“Are Crowdsourcing Platforms Reliable for Video Game-related Research?” A Case Study on Amazon Mechanical Turk_, accepted to the Work-in-Progress track of the Annual Symposium on Computer-Human Interaction in Play (CHI PLAY'24).
+This repository provides supplementary material for our paper entitled _“Are Crowdsourcing Platforms Reliable for Video Game-related Research?” A Case Study on Amazon Mechanical Turk_, accepted to the Work-in-Progress track of the Annual Symposium on Computer-Human Interaction in Play ([CHI PLAY'24](https://chiplay.acm.org/2024/)).
 
 If you use any of our resources, we kindly ask you to cite our paper with the following BibTeX entry:
 ```
